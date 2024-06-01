@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0603,1,0.1uF,
+"D1, D2, D3, D4",SOD-323,4,~,
+"D10, D5, D8, D9",0603,4,Red,
+"D6, D7",SOD-323,2,3A,
+"J1, J10, J2, J3, J4, J5, J6, J7, J8, J9",SCREWTERMINAL-3.5MM-4,10,Screw_Terminal_3.5mm_4,
+"Q1, Q2",SOIC-8_3.9x4.9mm_P1.27mm,2,Si4532DY,
+"R1, R10, R11, R12, R13, R14, R15, R16, R2, R4, R6, R8",0603,12,10k,
+"R3, R5, R7, R9",0603,4,1M,
+U1,P,1,~,

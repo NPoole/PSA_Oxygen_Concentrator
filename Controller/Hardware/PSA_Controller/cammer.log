@@ -1,0 +1,17 @@
+2024-01-12 02:35:33,554 - cammer_logger - INFO - Running CAMmer
+2024-01-12 02:35:33,626 - cammer_logger - INFO - ['-l', 'F.Cu,B.Cu,F.Paste,B.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask', '-e', 'Edge.Cuts,User.Comments']
+2024-01-12 02:35:33,661 - cammer_logger - INFO - CAMMER START: 2024-01-12T02:35:33.661311
+2024-01-12 02:35:33,824 - cammer_logger - INFO - 
+START: 2024-01-12T02:35:33.661311
+Renaming C:\Users\USER\Documents\GitHub\O2_PSA_Controller\PSA_Controller\PSA_Controller-F_Cu.gbr to C:\Users\USER\Documents\GitHub\O2_PSA_Controller\PSA_Controller\PSA_Controller.GTL
+Renaming C:\Users\USER\Documents\GitHub\O2_PSA_Controller\PSA_Controller\PSA_Controller-B_Cu.gbr to C:\Users\USER\Documents\GitHub\O2_PSA_Controller\PSA_Controller\PSA_Controller.GBL
+Renaming C:\Users\USER\Documents\GitHub\O2_PSA_Controller\PSA_Controller\PSA_Controller-F_Paste.gbr to C:\Users\USER\Documents\GitHub\O2_PSA_Controller\PSA_Controller\PSA_Controller.GTP
+Renaming C:\Users\USER\Documents\GitHub\O2_PSA_Controller\PSA_Controller\PSA_Controller-B_Paste.gbr to C:\Users\USER\Documents\GitHub\O2_PSA_Controller\PSA_Controller\PSA_Controller.GBP
+Renaming C:\Users\USER\Documents\GitHub\O2_PSA_Controller\PSA_Controller\PSA_Controller-F_Silkscreen.gbr to C:\Users\USER\Documents\GitHub\O2_PSA_Controller\PSA_Controller\PSA_Controller.GTO
+Renaming C:\Users\USER\Documents\GitHub\O2_PSA_Controller\PSA_Controller\PSA_Controller-B_Silkscreen.gbr to C:\Users\USER\Documents\GitHub\O2_PSA_Controller\PSA_Controller\PSA_Controller.GBO
+Renaming C:\Users\USER\Documents\GitHub\O2_PSA_Controller\PSA_Controller\PSA_Controller-F_Mask.gbr to C:\Users\USER\Documents\GitHub\O2_PSA_Controller\PSA_Controller\PSA_Controller.GTS
+Renaming C:\Users\USER\Documents\GitHub\O2_PSA_Controller\PSA_Controller\PSA_Controller-B_Mask.gbr to C:\Users\USER\Documents\GitHub\O2_PSA_Controller\PSA_Controller\PSA_Controller.GBS
+Renaming C:\Users\USER\Documents\GitHub\O2_PSA_Controller\PSA_Controller\PSA_Controller-Edge_Cuts.gbr to C:\Users\USER\Documents\GitHub\O2_PSA_Controller\PSA_Controller\PSA_Controller.GKO
+Drill report: C:\Users\USER\Documents\GitHub\O2_PSA_Controller\PSA_Controller\drill_report.rpt
+
+2024-01-12 02:35:33,882 - cammer_logger - INFO - CAMmer complete
